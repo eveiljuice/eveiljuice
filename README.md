@@ -74,7 +74,7 @@ Russian (Native), English (B2)
 
 - Built and shipped production-ready web apps (cloud deployment with Docker)
 - Created in-house design system (Chakra UI / Tailwind) adopted in multiple products
-- Published open-source Web3 & DevOps tools ([see my GitHub](https://github.com/eveiljuice))
+- Published open-source Web3 & DevOps tools
 - Led workshops for junior devs (React/Node/API)
 
 ---
