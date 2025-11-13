@@ -1,4 +1,4 @@
-# Timofey Elsesser (better call Timo 😊) 👋
+# Timofey Elsesser (better call Timo 😁) 👋
 
 **Full Stack Developer | Web3 Enthusiast | Product Builder**
 
