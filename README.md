@@ -6,6 +6,13 @@
 
 ---
 
+## 📄 My Resume
+
+If you’re interested in my professional background and want to know more, check out my resume:  
+[View Resume (Google Drive)](https://drive.google.com/drive/folders/1G-nTkVog2GESNJd5H1JRL1HRWEIOWxXz?usp=sharing)
+
+---
+
 ## 🚀 About Me
 
 Full Stack Developer with 3+ years of commercial experience working in distributed teams (3–10 engineers). Builder of scalable web apps and backend solutions for startups and agencies. Strong expertise in React.js, Node.js, TypeScript, PostgreSQL, and pixel-perfect UI delivery from Figma. Led feature launches impacting over 5,000+ monthly actives. Passionate about code quality, automation, Web3, and complete product lifecycle.
