@@ -1,6 +1,6 @@
 # Timofey Elsesser (better call Timo 😁) 👋
 
-**Full Stack Developer | Web3 Enthusiast | Product Builder**
+**Full Stack Developer | Web3/AI Enthusiast | Product Builder**
 
 [Email](mailto:doorto338@gmail.com) • [X](https://x.com/Timo1153) • [Telegram](https://t.me/popdevp)
 
