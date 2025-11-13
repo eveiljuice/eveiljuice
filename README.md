@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Web3 Enthusiast | Product Builder**
 
-[Email](mailto:doorto338@gmail.com) • [GitHub](https://github.com/eveiljuice) • [Telegram](https://t.me/popdevp)
+[Email](mailto:doorto338@gmail.com) • [X](https://x.com/Timo1153) • [Telegram](https://t.me/popdevp)
 
 ---
 
