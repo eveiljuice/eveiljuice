@@ -79,16 +79,6 @@ Russian (Native), English (B2)
 
 ---
 
-## 🦾 TON Developer Activity
-
-- Actively contributing to the TON ecosystem: following key updates, engaging in community events, and experimenting with cutting-edge solutions.
-- Learning TON-native languages: FunC (for writing smart contracts), TVM (virtual machine), and getting to grips with Tolk — low-level TON bytecode and tooling.
-- Developing my own smart contracts and dApps on TON, integrating with major wallets and TON services (TONConnect, Tonkeeper).
-- Familiar with the architecture of TON blockchain, compiler logic, and inner workings of contract state management.
-- Proficient with TON-dev tools: toncli, func-js, tonweb, toncenter-api; using them for automation, testing, and deployment.
-- Constantly advancing my TON expertise: studying official docs, releasing pet projects, absorbing best practices, and networking with other TON developers.
-
----
 
 > “Good code is the best resume.”
 
