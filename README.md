@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://github.com/eveiljuice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eveiljuice" height="30" width="40" /></a>
 <a href="https://twitter.com/Timo1153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Timo1153" height="30" width="40" /></a>
-<a href="https://t.me/mikedoncorleone"><img src="https://cdn.simpleicons.org/telegram" height="30"/></a>
+<a href="https://t.me/mikedoncorleone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/telegram.svg" height="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
