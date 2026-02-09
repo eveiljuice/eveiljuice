@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **doorto338@gmail.com**
 
-- ⚡ Fun fact **Im an AI Enthusiast** and Golang madman
+- ⚡ Fun fact **Im an AI Enthusiast** and Golang MANIAC)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
