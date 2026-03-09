@@ -6,3 +6,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eveiljuice&" alt="eveiljuice" /></p>
+
+[![OpenClaw Activity](http://62.60.246.221:3333/badge.svg)](http://62.60.246.221:3333)
+
