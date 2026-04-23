@@ -1,64 +1,42 @@
-```text
-$ whoami
-```
+# Timo Elsesser
 
-**Timo Elsesser** — AI enthusiast · indie builder · @TOON
-
-Building agents, tooling, and small businesses. Working in public at [timoelsesser.com](https://timoelsesser.com).
+Indie builder · AI enthusiast · [timoelsesser.com](https://timoelsesser.com)
 
 ---
 
-```text
-$ ls ./now
-```
+## About
 
-- **[lord-bots](https://github.com/eveiljuice/lord-bots)** — BaaS where an AI agent creates Telegram bots end-to-end. Claude Agent SDK + Bot API 9.6 Managed Bots.
-- **Claw ecosystem** — agent-native tools: [clawbrowser](https://github.com/eveiljuice/clawbrowser), [clawgames](https://github.com/eveiljuice/clawgames), [clawpage](https://github.com/eveiljuice/clawpage), [claw-guardrails](https://github.com/eveiljuice/claw-guardrails).
-- **[claude-plugin-design-md](https://github.com/eveiljuice/claude-plugin-design-md)** — scaffold `DESIGN.md` files for AI coding agents. Published on [npm](https://www.npmjs.com/package/claude-plugin-design-md).
+I build AI agents, developer tools, and small internet products — mostly in public, mostly alone. I work under the **@TOON** brand and spend most of my time on two threads: **agent-native primitives** (the Claw ecosystem) and **AI as a product layer** (Lord Bots, Telegram tooling, automation for real-world businesses).
 
----
+## Why I build
 
-```text
-$ cat ./stack
-```
+The most interesting software shift of this decade is *agents becoming real collaborators* — not chat boxes, not autocomplete, but processes that actually execute on a user's behalf. I'm trying to build the primitives that shift needs: a browser agents can drive, an arena where they can compete, an activity page for what they do, guardrails so they can be trusted with destructive actions.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1e4d3d?style=flat-square&logo=typescript&logoColor=e8e1d0)
-![Bun](https://img.shields.io/badge/Bun-1e4d3d?style=flat-square&logo=bun&logoColor=e8e1d0)
-![Node.js](https://img.shields.io/badge/Node.js-1e4d3d?style=flat-square&logo=nodedotjs&logoColor=e8e1d0)
-![Python](https://img.shields.io/badge/Python-1e4d3d?style=flat-square&logo=python&logoColor=e8e1d0)
-![Go](https://img.shields.io/badge/Go-1e4d3d?style=flat-square&logo=go&logoColor=e8e1d0)
-![Rust](https://img.shields.io/badge/Rust-1e4d3d?style=flat-square&logo=rust&logoColor=e8e1d0)
-![Astro](https://img.shields.io/badge/Astro-1e4d3d?style=flat-square&logo=astro&logoColor=e8e1d0)
-![Docker](https://img.shields.io/badge/Docker-1e4d3d?style=flat-square&logo=docker&logoColor=e8e1d0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e4d3d?style=flat-square&logo=postgresql&logoColor=e8e1d0)
-![SQLite](https://img.shields.io/badge/SQLite-1e4d3d?style=flat-square&logo=sqlite&logoColor=e8e1d0)
+I ship small, in public, often imperfect. One weekend repo with a real user beats six months of planning.
 
----
+## Projects
 
-```text
-$ ls ./work
-```
+**[lord-bots](https://github.com/eveiljuice/lord-bots)** — A BaaS platform where an AI agent writes Telegram bots end-to-end. Claude Agent SDK + Bot API 9.6 Managed Bots.
 
-| #  | Project | About |
-|----|---------|-------|
-| 01 | [lord-bots](https://github.com/eveiljuice/lord-bots) | BaaS · AI creates Telegram bots · Claude Agent SDK |
-| 02 | [claude-plugin-design-md](https://github.com/eveiljuice/claude-plugin-design-md) | Scaffold DESIGN.md for AI coding agents |
-| 03 | [clawbrowser](https://github.com/eveiljuice/clawbrowser) | True browser for agents · CLI-first · DevTools-powered |
-| 04 | [clawgames](https://github.com/eveiljuice/clawgames) | Open platform where AI agents compete via REST |
-| 05 | [tg-cli](https://github.com/eveiljuice/tg-cli) | Full-featured Telegram client in the terminal · Textual |
-| 06 | [radar](https://github.com/eveiljuice/radar) | Telegram bot that catches fresh property listings |
+**[claude-plugin-design-md](https://github.com/eveiljuice/claude-plugin-design-md)** — Claude Code plugin and `npx` CLI that scaffolds `DESIGN.md` files following Google's spec for AI-readable design systems. Published on [npm](https://www.npmjs.com/package/claude-plugin-design-md).
 
----
+**[clawbrowser](https://github.com/eveiljuice/clawbrowser)** — The true browser for your agents. CLI-first, DevTools-powered, stdout-friendly.
 
-```text
-$ ls ./contact
-```
+**[clawgames](https://github.com/eveiljuice/clawgames)** — Open platform where AI agents compete in turn-based games via REST API.
+
+**[clawpage](https://github.com/eveiljuice/clawpage)** — GitHub-style activity heatmap, but for your AI companions.
+
+**[claw-guardrails](https://github.com/eveiljuice/claw-guardrails)** — OpenClaw plugin that enforces multi-layer permission checks before potentially destructive actions.
+
+**[tg-cli](https://github.com/eveiljuice/tg-cli)** — Full-featured Telegram client in the terminal. Python + Telethon + Textual.
+
+**[radar](https://github.com/eveiljuice/radar)** — Telegram bot that catches fresh property listings before competitors.
+
+**[timoelsesser-site](https://github.com/eveiljuice/timoelsesser-site)** — Personal site and logbook. Astro + Bun.
+
+## Elsewhere
 
 - **web** · [timoelsesser.com](https://timoelsesser.com)
 - **x** · [@Timo1153](https://x.com/Timo1153)
-- **tg** · [@promptdie](https://t.me/promptdie)
+- **telegram** · [@promptdie](https://t.me/promptdie)
 - **email** · [mannitiger13@gmail.com](mailto:mannitiger13@gmail.com)
-
-```text
-$ exit 0
-```
