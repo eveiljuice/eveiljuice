@@ -12,6 +12,8 @@ I build AI agents, developer tools, and small internet products — mostly in pu
 
 The most interesting software shift of this decade is *agents becoming real collaborators* — not chat boxes, not autocomplete, but processes that actually execute on a user's behalf. I'm trying to build the primitives that shift needs: a browser agents can drive, an arena where they can compete, an activity page for what they do, guardrails so they can be trusted with destructive actions.
 
+I'm not the most classically trained engineer, and I'm fine with that. What I care about is building useful things in software and helping non-technical founders actually ship — like [speaky-chinese](https://speaky-chinese.com), a language-learning product I helped get off the ground without its creator needing to write a line of code.
+
 I ship small, in public, often imperfect. One weekend repo with a real user beats six months of planning.
 
 ## Projects
