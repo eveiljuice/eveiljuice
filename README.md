@@ -1,6 +1,6 @@
 # Timo Elsesser
 
-Indie builder · AI enthusiast · [timoelsesser.com](https://timoelsesser.com)
+Indie builder · AI enthusiast · [timoelsesser.com](https://timoelsesser-site.pages.dev/)
 
 ---
 
