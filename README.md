@@ -6,7 +6,7 @@ Product builder · AI enthusiast · [timoelsesser.com](https://timoelsesser-site
 
 ## About
 
-I build AI agents, developer tools, and small internet products — mostly in public, mostly alone. I work under the **@TOON** brand and spend most of my time on two threads: **agent-native primitives** (the Claw ecosystem) and **AI as a product layer** (Lord Bots, Telegram tooling, automation for real-world businesses).
+I build AI agents, developer tools, and small internet products — mostly in public, mostly alone. Im founder of **@Elsesser Ind**.
 
 ## Why I build
 
