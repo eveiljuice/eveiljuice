@@ -6,7 +6,7 @@ Product builder · AI enthusiast · [timoelsesser.com](https://timoelsesser-site
 
 ## About
 
-I build AI agents, developer tools, and small internet products — mostly in public, mostly alone. Im founder of [**@Elsesser Ind**](https://github.com/elsesser-ind).
+I build AI agents, developer tools, and small internet products — mostly in public, mostly alone. Im founder of [**Elsesser Ind**](https://github.com/elsesser-ind).
 
 ## Why I build
 
