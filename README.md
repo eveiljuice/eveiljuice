@@ -1,6 +1,6 @@
 # Timo Elsesser
 
-Product builder · AI enthusiast · [timoelsesser.com](https://timoelsesser-site.pages.dev/)
+Product builder · AI enthusiast · C++ Developer
 
 ---
 
